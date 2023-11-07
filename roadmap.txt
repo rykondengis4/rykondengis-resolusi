@@ -1,3 +1,4 @@
+- belajar tentang internet
 - belajar html dasar
 - belajar css dasar
 - belajar css layouting
