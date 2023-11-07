@@ -6,4 +6,5 @@
 - belajar css grid
 - belajar css calc
 - belajar git & github
+- belajar struktur data dasar
 - belajar javaScript
