@@ -7,4 +7,7 @@
 - belajar css calc
 - belajar git & github
 - belajar struktur data dasar
-- belajar javaScript
+- belajar javaScript dasar
+- framework javascript
+  - angular
+  - react native
