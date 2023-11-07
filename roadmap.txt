@@ -9,5 +9,5 @@
 - belajar struktur data dasar
 - belajar javaScript dasar
 - framework javascript
-  - angular
+  - vue
   - react native
