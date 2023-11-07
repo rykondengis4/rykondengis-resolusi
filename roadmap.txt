@@ -1,0 +1,8 @@
+- belajar html dasar
+- belajar css dasar
+- belajar css layouting
+- belajar css flexbox
+- belajar css grid
+- belajar css calc
+- belajar git & github
+- belajar javaScript
